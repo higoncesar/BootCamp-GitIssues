@@ -1,4 +1,4 @@
-# Desafio 03 - BootCamp Rocketseat
+# Desafio 02 com React Native - BootCamp Rocketseat
 
 ## OBJETIVO
 
