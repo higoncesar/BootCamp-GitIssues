@@ -28,5 +28,5 @@ Rodar um dos comandos para iniciar do Projeto:
 $ react-native run-android (Para dispositivos Android)
 $ react-native run-ios (Para dispositivos IOS)
 
-**"Honestidade em pequenas coisas, não é algo pequeno"
+>"Honestidade em pequenas coisas, não é algo pequeno"
 Clean Code - Robert C. Martin
